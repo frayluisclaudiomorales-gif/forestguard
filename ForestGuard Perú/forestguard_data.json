@@ -1,0 +1,25 @@
+{
+  "metrics": {
+    "areas": 128,
+    "alerts": 14,
+    "transports": 46,
+    "reviewed": 35
+  },
+  "reports": [
+    {
+      "location": "76UI6UJUJ",
+      "type": "MUTMKYKY",
+      "description": "6U7U7UJ",
+      "created_at": "2026-10-15 11:42",
+      "status": "Pendiente"
+    },
+    {
+      "location": "Por verificar",
+      "type": "Posible tala (revisión manual)",
+      "description": "C:/Users/ESTUDIANTE/OneDrive - SENATI/Imágenes/Capturas de pantalla/Captura de pantalla 2026-10-15 104320.png",
+      "created_at": "2026-10-15 11:42",
+      "status": "Pendiente"
+    }
+  ],
+  "transport_records": []
+}
